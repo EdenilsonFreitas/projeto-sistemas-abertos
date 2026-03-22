@@ -11,22 +11,29 @@
 
 ---
 
-# 🐧 Comandos Linux Mais Usados por Desenvolvedores
 
-## 📁 Manipulação de Arquivos e Diretórios
+✅ **Resultado:**  
+- Cada comando separado e fácil de ler  
+- Pode copiar e colar no terminal  
+- Visual organizado no site  
 
-```bash
-pwd        # Mostra o diretório atual
-ls         # Lista arquivos
-ls -la     # Lista detalhada (incluindo ocultos)
-cd nome/   # Entra em um diretório
-cd ..      # Volta um nível
-mkdir pasta # Cria diretório
-rm arquivo # Remove arquivo
-rm -rf pasta # Remove diretório completo
-cp origem destino # Copia arquivos
-mv origem destino # Move ou renomeia
+---
 
+## 🔹 Tabela como os comandos mais usuais entres os "Desenvolvedores"
+
+```markdown
+| Comando | Função |
+|---------|--------|
+| `pwd` | Mostra o diretório atual |
+| `ls` | Lista arquivos |
+| `ls -la` | Lista detalhada, incluindo ocultos |
+| `cd nome/` | Entra em um diretório |
+| `cd ..` | Volta um nível |
+| `mkdir pasta` | Cria diretório |
+| `rm arquivo` | Remove arquivo |
+| `rm -rf pasta` | Remove diretório completo |
+| `cp origem destino` | Copia arquivos |
+| `mv origem destino` | Move ou renomeia |
 
 ## 🧠 Estrutura de um Sistema Computacional
 
