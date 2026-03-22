@@ -21,19 +21,18 @@
 
 ## 🔹 Tabela como os comandos mais usuais entres os "Desenvolvedores"
 
-```markdown
-| Comando | Função |
-|---------|--------|
-| `pwd` | Mostra o diretório atual |
-| `ls` | Lista arquivos |
-| `ls -la` | Lista detalhada, incluindo ocultos |
-| `cd nome/` | Entra em um diretório |
-| `cd ..` | Volta um nível |
-| `mkdir pasta` | Cria diretório |
-| `rm arquivo` | Remove arquivo |
-| `rm -rf pasta` | Remove diretório completo |
-| `cp origem destino` | Copia arquivos |
-| `mv origem destino` | Move ou renomeia |
+| Comando        | Função                              |
+|----------------|-------------------------------------|
+| pwd            | Mostra o diretório atual            |
+| ls             | Lista arquivos                      |
+| ls -la         | Lista detalhada (incluindo ocultos) |
+| cd nome/       | Entra em um diretório               |
+| cd ..          | Volta um nível                      |
+| mkdir pasta    | Cria diretório                      |
+| rm arquivo     | Remove arquivo                      |
+| rm -rf pasta   | Remove diretório completo           |
+| cp origem dest | Copia arquivos                      |
+| mv origem dest | Move ou renomeia                    |
 
 ## 🧠 Estrutura de um Sistema Computacional
 
