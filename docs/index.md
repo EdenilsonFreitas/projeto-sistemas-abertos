@@ -56,3 +56,15 @@ Usuário → Aplicações → Shell → Kernel → Hardware
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliotecas + Compiladores
 
 </div>
+
+---
+
+## 🌐 Minhas Redes
+
+<div class="fluxo">
+
+<a href="https://github.com/EdenilsonFreitas">🚀 GitHub</a>  
+<a href="https://linkedin.com/in/edenisonfreitas">💼 LinkedIn</a>  
+<a href="https://instagram.com/edenilson.freitas.1">📸 Instagram</a>
+
+</div>
