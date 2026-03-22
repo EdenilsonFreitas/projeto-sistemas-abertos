@@ -9,38 +9,17 @@
 
 ---
 
-<div class="grid cards" markdown>
+## 🧠 Estrutura de um Sistema Computacional
 
-- 👤 **Usuário**
-  
-  Interage com o sistema através de interfaces
+!!! info "Camadas do Sistema"
 
-- 📱 **Aplicações**
-  
-  Programas como navegador, editor e sistemas web
-
-- 💬 **Shell**
-  
-  Interface que recebe comandos do usuário
-
-- ⚙️ **Kernel**
-  
-  Núcleo do sistema, controla tudo
-
-- 🖥️ **Hardware**
-  
-  Parte física do computador
-
-- 📚 **Bibliotecas**
-  
-  Funções prontas usadas pelos programas
-
-- 🛠️ **Compiladores**
-  
-  Traduzem código para linguagem de máquina
-
-</div>
-
+    - 👤 **Usuário**: Interage com o sistema através de interfaces  
+    - 📱 **Aplicações**: Programas como navegador, editor e sistemas web  
+    - 💬 **Shell**: Interface que recebe comandos do usuário  
+    - ⚙️ **Kernel**: Núcleo do sistema, controla tudo  
+    - 🖥️ **Hardware**: Parte física do computador  
+    - 📚 **Bibliotecas**: Funções prontas usadas pelos programas  
+    - 🛠️ **Compiladores**: Traduzem código para linguagem de máquina  
 ---
 
 ### 🔄 Fluxo de funcionamento
