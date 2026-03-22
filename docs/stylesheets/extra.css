@@ -1,0 +1,44 @@
+.hero {
+  text-align: center;
+  padding: 40px 20px;
+  background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+  color: white;
+  border-radius: 12px;
+  margin-bottom: 20px;
+}
+
+.hero h2 {
+  margin: 0;
+  font-size: 28px;
+}
+
+.hero p {
+  opacity: 0.8;
+}
+
+.grid.cards {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: 16px;
+}
+
+.grid.cards > * {
+  background: var(--md-default-bg-color);
+  border-radius: 12px;
+  padding: 20px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.08);
+  transition: 0.3s;
+}
+
+.grid.cards > *:hover {
+  transform: translateY(-5px);
+}
+
+.fluxo {
+  margin-top: 20px;
+  padding: 20px;
+  text-align: center;
+  font-weight: bold;
+  background: rgba(0, 150, 255, 0.1);
+  border-radius: 10px;
+}

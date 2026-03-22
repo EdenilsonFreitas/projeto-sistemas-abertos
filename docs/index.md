@@ -1,46 +1,54 @@
-# 🌐 Sistemas Abertos em Redes de Computadores
-
-> 📚 Guia completo para iniciantes — entendendo como os sistemas se comunicam
-
----
-
-## 🚀 Introdução
-
-Os **Sistemas Abertos** são fundamentais para o funcionamento das redes de computadores.  
-Eles permitem que dispositivos diferentes se comuniquem usando **padrões universais**.
-
-👉 Exemplo: acessar um site pelo celular, notebook ou tablet.
-
----
-
-## 🧠 O que são Sistemas Abertos?
-
-Um sistema aberto é aquele que:
-- Usa **padrões públicos**
-- Permite **integração entre sistemas**
-- Facilita a **comunicação entre dispositivos diferentes**
-
----
-
-## 🌐 Modelo OSI (Open Systems Interconnection)
-
-O Modelo OSI divide a comunicação em 7 camadas:
-
-| Camada | Função |
-|------|--------|
-| 7 - Aplicação | Interface com o usuário |
-| 6 - Apresentação | Formatação e criptografia |
-| 5 - Sessão | Controle da comunicação |
-| 4 - Transporte | Entrega dos dados |
-| 3 - Rede | Endereçamento (IP) |
-| 2 - Enlace | Controle de erros |
-| 1 - Física | Transmissão de bits |
-
----
-
 ## 🧩 Estrutura de um Sistema
 
-```bash
-Usuário → Apps → Shell → Kernel → Hardware
-           ↑
-     Bibliotecas + Compiladores
+<div class="hero">
+
+<h2>Como um sistema funciona por dentro?</h2>
+<p>Entenda a comunicação entre usuário, aplicações e hardware</p>
+
+</div>
+
+---
+
+<div class="grid cards" markdown>
+
+- 👤 **Usuário**
+  
+  Interage com o sistema através de interfaces
+
+- 📱 **Aplicações**
+  
+  Programas como navegador, editor e sistemas web
+
+- 💬 **Shell**
+  
+  Interface que recebe comandos do usuário
+
+- ⚙️ **Kernel**
+  
+  Núcleo do sistema, controla tudo
+
+- 🖥️ **Hardware**
+  
+  Parte física do computador
+
+- 📚 **Bibliotecas**
+  
+  Funções prontas usadas pelos programas
+
+- 🛠️ **Compiladores**
+  
+  Traduzem código para linguagem de máquina
+
+</div>
+
+---
+
+### 🔄 Fluxo de funcionamento
+
+<div class="fluxo">
+
+Usuário → Aplicações → Shell → Kernel → Hardware  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;↑  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Bibliotecas + Compiladores
+
+</div>

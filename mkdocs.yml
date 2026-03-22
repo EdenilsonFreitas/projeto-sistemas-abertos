@@ -1,1 +1,25 @@
 site_name: My Docs
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed
+  - pymdownx.highlight
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - attr_list
+  - md_in_html
+  - admonition
+  - pymdownx.arithmatex
+  - pymdownx.mark
+  - pymdownx.caret
+  - pymdownx.tilde
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.keys
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+
+ extra_css:
+  - stylesheets/extra.css         
